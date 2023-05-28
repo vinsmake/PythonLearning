@@ -15,3 +15,5 @@ print(input('¿En qué país vives?'))
 
 print(input('Escribe tu nombre:') + ' ' + input('Escribe tu apellido:'))
 
+print("""This is writed
+in the same print""")
